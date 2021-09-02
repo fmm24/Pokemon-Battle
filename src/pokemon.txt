@@ -1,0 +1,6 @@
+p, charizard, 5, fireball, 20, flamethrower, 30
+p, mewtwo, 10, telekinesis, 20, shadow ball, 50
+p, magikarp, 3, water bubble, 10, water cannon, 20
+e, snorlax, 5, sleep, -30, enrage, 50
+e, machoke, 12, karate chop, 20, roundhouse kick, 40
+e, jigglypuff, 7, disarming voice, 20, play rough, 30
